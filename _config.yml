@@ -8,9 +8,9 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
-  ios_id: 1109109105 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
-  android_id: # Optional - Enter Android app id like: com.example.app
+  name: Lughat Offline # REQUIRED - Enter your app name
+  ios_id:  # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  android_id: com.vovoapps.lughatoffline # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
@@ -25,8 +25,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: Search Urdu Words Offline # Optional
+marketing_desc: Lughat Urdu is a free and offline urdu to urdu dictiory.This app has about 2 lakh words.The database includes meaning, explaination, usage example in phrase and poetry.
 
 #
 # Social Links
@@ -76,8 +76,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title:Lughat Offline # Optional - Enter your site title
+description:A free and Urdu Lughat with 2 lakh words # Optional - Enter your site description
 
 #
 # Google Analytics
