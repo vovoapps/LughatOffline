@@ -76,8 +76,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title:"Lughat Offline" # Optional - Enter your site title
-description:"A free and Urdu Lughat with 2 lakh words" # Optional - Enter your site description
+title:Lughat Offline # Optional - Enter your site title
+description:A free and Urdu Lughat with 2 lakh words # Optional - Enter your site description
 
 #
 # Google Analytics
