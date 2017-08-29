@@ -22,7 +22,7 @@ app:
   # e.g. images/app-screen-640x1136.png
   # 640x1136px
 
-#
+ #
 # Marketing
 #
 marketing_header: Search Urdu Words Offline # Optional
@@ -35,7 +35,7 @@ marketing_desc: Lughat Urdu is a free and offline urdu to urdu dictiory.This app
 #
 social-links:
   github:
-  facebook:
+  facebook: https://www.facebook.com/Dictionaryurdu/
   twitter:
   pinterest:
   instagram:
